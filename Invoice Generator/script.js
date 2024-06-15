@@ -11,7 +11,7 @@ function additem() {
     c1.innerHTML = '<input type="text" autocomplete="on">';
     c2.innerHTML = '<input type="number" class="qt" required oninput="total()">';
     c3.innerHTML = '<input type="number" class="pr" required oninput="total()">';
-    c4.innerHTML = '<button class="rem" onclick="deleteRow(this)">Remove</button>';
+    c4.innerHTML = '<button class="rem" onclick="deleteRow(this)"><i class="fa fa-trash"></i></button>';
 }
 
 function total() {
