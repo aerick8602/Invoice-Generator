@@ -30,7 +30,7 @@ function reset() {
 }
 
 function deleteRow(el) {
-    if (confirm("Are you sure you want to delete the row?")) {
+    if (confirm("Are you sure you want to delete the item?")) {
         let row = el.parentNode.parentNode;
         row.parentNode.removeChild(row);
         total();
