@@ -2,6 +2,9 @@
 
 InvoiceGenerator is a simple web-based tool developed using HTML, CSS, and JavaScript to generate bills based on user input of item details, quantities, and prices. The application dynamically calculates the total bill in real-time.
 
+
+![](./Invoice%20Generator/Demo/Screenshot%202024-06-16%20103924.png)
+
 ## Features
 
 - **User-friendly Interface**: Allows users to input and display item details conveniently.
