@@ -4,7 +4,7 @@ InvoiceGenerator is a simple web-based tool developed using HTML, CSS, and JavaS
 
 ### Live: https://invoicecreater.netlify.app
 
-![](./Invoice%20Generator/Demo/Screenshot%202024-06-16%212821.png)
+![](./Invoice%20Generator/Demo/Screenshot%202024-06-16%20212821.png)
 
 ## Features
 
